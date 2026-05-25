@@ -4,7 +4,7 @@
 
     <ul class="menu">
       <li><a href="index.php">Главная</a></li>
-      <li><a href="#">Туры</a></li>
+      <li><a href="catalog.php">Туры</a></li>
       <li><a href="#">О нас</a></li>
       <li><a href="#">Отзывы</a></li>
       <li><a href="#">Контакты</a></li>
